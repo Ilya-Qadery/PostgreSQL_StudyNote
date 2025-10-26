@@ -20,7 +20,6 @@ Every section includes:
 - Clear, runnable SQL examples  
 - Notes and tips based on real development use-cases  
 
----
 
-## 🧩 Project Structure
+
 
